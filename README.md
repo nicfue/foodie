@@ -1,2 +1,2 @@
-# foodie
+https://nicfue.github.io/foodie/
 
